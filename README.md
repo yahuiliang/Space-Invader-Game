@@ -32,4 +32,10 @@ System Workbench for STM32 is the great tool for building and deploy application
 
 The front-end of the game is displayed on the LCD screen. The player is able to use ’2’ and ’8’ to control the movement, and ’5’ is for attacking. The background music "The Imperial March" will be played while the player is playing.
 
-## Screenshots
+## Demo
+
+[![demo](screenshots/demo_cover.jpg)](https://drive.google.com/file/d/1OJ1pzoZ7NcVx8ZGvRSdzdsEXeaiMG7q8/view?usp=sharing)
+
+## Issue
+
+The current game has some sychonization issues for different interrupts
