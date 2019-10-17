@@ -34,7 +34,7 @@ The front-end of the game is displayed on the LCD screen. The player is able to 
 
 ## Demo
 
-[![demo](screenshots/demo_cover.jpg)](https://drive.google.com/file/d/1OJ1pzoZ7NcVx8ZGvRSdzdsEXeaiMG7q8/view?usp=sharing)
+[![demo](screenshots/demo_cover.JPG)](https://drive.google.com/file/d/1OJ1pzoZ7NcVx8ZGvRSdzdsEXeaiMG7q8/view?usp=sharing)
 
 ## Issue
 
